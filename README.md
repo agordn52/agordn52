@@ -17,3 +17,5 @@
 	<a href="https://github.com/agordn52"><img src="https://img.shields.io/github/followers/agordn52.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/anthonygordn"><img src="https://img.shields.io/twitter/follow/anthonygordn?label=Twitter&style=social" alt="Twitter"></a>
 </p>
+
+[![HitCount](http://hits.dwyl.com/agordn52/agordn52.svg)](http://hits.dwyl.com/agordn52/agordn52)
