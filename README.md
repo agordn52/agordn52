@@ -14,6 +14,6 @@
 - 📫 How to reach me
 
 <p align="left">
-	<a href="https://github.com/agordn52"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/anthonygordn"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://github.com/agordn52"><img src="https://img.shields.io/github/followers/agordn52.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/anthonygordn"><img src="https://img.shields.io/twitter/follow/anthonygordn?label=Twitter&style=social" alt="Twitter"></a>
 </p>
