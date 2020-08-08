@@ -4,8 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/e0/c4/74/e0c4745ee07489804c3ac7bafec89d45.jpg" alt="">
 
-## Find me on 🌎 
-<img align="left" width="80" height="80" src="https://static.dribbble.com/users/56427/screenshots/7017900/untitled-3-02_2x.jpg" />
+### Find me on 🌎 
 
 - 🔭 I’m currently working on WooSignal and Nylo
 - ⚡ Fun fact: I can't swim
