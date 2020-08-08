@@ -7,8 +7,8 @@
 ### Find me on 🌎 
 
 - 🔭 I’m currently working on WooSignal and Nylo
-- ⚡ Fun fact: I can't swim
-- 🌱 I’m currently learning: wizard stuff
+- ⚡ Fun fact, I can't swim
+- 🌱 I’m currently learning wizard stuff
 - 🎮 Current games I'm playing: The ghost of tsushima and Death stranding
 - 🏃‍♂️ Run? Add me on the Nike running app - ants52@aol.com
 - 📫 How to reach me
