@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Nylo
 - ⚡ Fun fact, I can't swim
 - 🌱 I’m currently learning wizard stuff
-- 🎮 Current games I'm playing: Ghost of Tsushima
+- 🎮 Games I'm playing: Ghost of Tsushima
 - 🏃‍♂️ Run? Add me on the Nike running app - ants52@aol.com
 - 📫 How to reach me
 
