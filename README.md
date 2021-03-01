@@ -6,11 +6,11 @@
 
 ### Find me on 🌎 
 
-- 🔭 I’m currently working on Nylo
+- 🔭 I’m currently working on WooSignal/Nylo
 - ⚡ Fun fact, I can't swim
 - 🌱 I’m currently learning wizard stuff
 - 🎮 Games I'm playing: Ghost of Tsushima
-- 🏃‍♂️ Run? Add me on the Nike running app - ants52@aol.com
+- 🏃‍♂️ Run? Add me on the Nike running app
 - 📫 How to reach me
 
 <p align="left">
