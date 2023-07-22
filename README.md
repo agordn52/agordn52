@@ -6,8 +6,6 @@
 
 - 🎒 [About] Work alcoholic.
 - 🌱 [Stories] Medium - [agordn52](https://medium.com/@agordn52)
-- 🎮 [Gaming] PS5 - thetonemicro
-- 🏃‍♂️ [Fitness] Nike Run Club - Anthony Gordon 🐧
 - 🔭 [Recommened reads] **Tools of titans** | **Steal like an artist** | **Man's search for meaning**
 - 📫 [Contact] How to reach me
 
