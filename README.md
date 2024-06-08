@@ -2,12 +2,27 @@
 
 # Hello World
 
-### Find me on 🌎 
+### Projects 👨🏾‍💻
+- [WooSignal](https://woosignal.com)
+- [Nylo](https://nylo.dev)
+- [RoomsLocal](https://roomslocal.co.uk)
+- [Realspacecm](https://realspacecm.com)
+- [BaeLyf](https://apps.apple.com/th/app/baelyf-fashion-clothing/id1603535961)
+- [TheLaraApp](https://thelara.app)
+- [A few projects on CodeCanyon](https://codecanyon.net/user/agordn/portfolio)
 
-- 🎒 [About] Work alcoholic.
+### Let's Work Together ⚡️
+
+If you'd like to work with me on your Laravel, Flutter, or software-related project, feel free to reach out via the email in my bio.
+
+My timezone is `Europe/London`.
+
+### About me 🌎 
+
+- 🎒 [About] Work alcoholic
 - 🌱 [Stories] Medium - [agordn52](https://medium.com/@agordn52)
-- 🔭 [Recommened reads] **Tools of titans** | **Steal like an artist** | **Man's search for meaning**
-- 📫 [Contact] How to reach me
+- 📖 [Recommened reads] **Tools of titans** | **Steal like an artist** | **Man's search for meaning**
+- 🔭 [Two Quotes] "Nothing changes if nothing changes" & "Never try, never know"
 
 <p align="left">
 	<a href="https://github.com/agordn52"><img src="https://img.shields.io/github/followers/agordn52.svg?label=GitHub&style=social" alt="GitHub"></a>
