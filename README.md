@@ -9,7 +9,6 @@
 - [Realspacecm](https://realspacecm.com)
 - [BaeLyf](https://apps.apple.com/th/app/baelyf-fashion-clothing/id1603535961)
 - [TheLaraApp](https://thelara.app)
-- [A few projects on CodeCanyon](https://codecanyon.net/user/agordn/portfolio)
 
 ### Let's Work Together ⚡️
 
